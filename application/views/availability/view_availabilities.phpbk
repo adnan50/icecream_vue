@@ -1,0 +1,91 @@
+<style type="text/css">
+.fc-day {
+	cursor: pointer;
+}
+.click-active td {
+	padding-top: 5px;
+	text-align: center;
+	font-weight: bold;
+}
+.click-btn{
+	width: 100%;
+	height: 100%;
+}
+.fc-time-grid-event{
+	    margin-right: 0 !important;
+}
+
+</style>
+<div class="">
+	<?php
+	$role = get_user_role();
+
+	if ($role == "admin") {
+	
+
+	?>
+		<div class="row">
+			<div class="col-md-4"> 
+				<div class="form-group">
+				    <label for="Teachers">Teachers</label>
+				   <select class="form-control select2 " id="teachers_availablility_select" style="border: 2px solid #000;">
+					<option class="ml0">Select Teacher</option>
+					<?php
+				foreach ($teachers as $key => $value) {
+
+
+					
+					echo "<option value='".$value->id."'>".$value->full_name."</option>";
+				}
+				?>
+				</select>
+				  </div>
+
+
+				<!-- <b>Teachers</b>
+				<select class="form-control select2" id="teachers_availablility_select" style="border: 2px solid #000;">
+					<option>Select Teacher</option>
+					<?php
+				foreach ($teachers as $key => $value) {
+
+
+					
+					echo "<option value='".$value->id."'>".$value->full_name."</option>";
+				}
+				?>
+				</select> -->
+			</div>
+		</div>
+		<?php
+}
+
+	?>
+			<div id="teachers_availablility_calendar"></div>
+			<div>
+				<button class="btn btn-primary inc-width btn-lg" id="save_availability">
+					<?php echo $this->lang->line('save'); ?>
+				</button>
+			</div>
+</div>
+
+
+<script>
+
+	$(document).ready(function () {
+	
+			<?php if(!empty($teacher_id))
+			{
+				?>
+				$("#teachers_availablility_select").val("<?php echo $teacher_id; ?>").change();
+				<?php
+			}
+			?>
+		
+		$(".click-btn").on("click",function() {
+			$(this).attr('disabled', true);
+			
+		});
+		
+
+	})
+</script>

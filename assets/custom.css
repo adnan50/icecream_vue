@@ -1,0 +1,539 @@
+.mt_50{
+
+		margin-top: -50px!important;
+
+	}
+
+.teacher_box{
+
+	min-height: 235px;
+
+	box-shadow: 8px 8px 10px 2px #888888;
+
+	border: 1px solid #c0c0c0;
+
+	border-top: 4px solid #a70920;
+
+	margin: 10px;
+
+}
+
+.mt25{
+
+	margin-top: 25px;
+
+}
+
+.custom_button{
+
+	padding: 5px;
+
+	margin: 10px 4px;
+
+	padding: 5px;
+
+	margin: 10px 4px;
+
+	font-size: 15px;
+
+	font-weight: 600px;
+
+	font-family: lato;
+
+}
+
+.custom_button:hover{
+
+	color: #ffffff;
+
+	background-color: #ff003f;
+
+}
+
+.custom_button{
+
+	background-color: #ff3366;
+
+	color:#ffffff;
+
+	border-radius: 25px 25px 25px 25px!important;
+
+	padding: 8px 20px 8px 20px;
+
+	border:#ff3366;
+
+}
+
+.btn-schedule-1 {
+
+
+
+	padding: 5px;
+
+	margin: 10px 4px;
+
+
+
+}
+.font13{
+	font-size: 13px!important;
+}
+
+.btn-schedule {
+
+	color: #ff003f !important;
+
+	border: 2px solid #ff003f;
+
+	background-color: #fff;
+
+
+
+	border-radius: 25px 25px 25px 25px!important;
+
+	padding: 8px 20px 8px 20px!important;
+
+	padding: 5px;
+
+	margin: 10px 4px;
+
+
+
+}
+
+
+
+.btn-schedule-1{color: #ff003f !important;
+
+	font-weight: 600;
+
+	background-color: #fff;
+
+	font-family: lato;
+
+	margin-top: 15px;
+
+	border-radius: 25px 25px 25px 25px!important;
+
+	padding: 8px 20px 8px 20px;}
+
+}
+
+
+
+.btn-schedule{
+
+	color: #ff003f !important;
+
+	border: 2px solid #ff003f;
+
+	background-color: #fff;
+
+
+
+	border-radius: 25px 25px 25px 25px!important;
+
+	padding: 8px 20px 8px 20px;
+
+
+
+}
+
+.btn-schedule-1:hover{ color: #ffffff!important;
+
+	background-color: #ff003f;
+
+	border: none!important;}
+
+	.btn-schedule:hover{
+
+		color: #ffffff!important;
+
+		background-color: #ff003f;
+
+		border: 2px solid #ff003f;
+
+
+
+	}
+
+
+
+	.btn-schedule-white{
+
+
+
+		background-color: #ffffff!important;
+
+		color:#FF003F!important;
+
+		border-radius: 25px 25px 25px 25px!important;
+
+		padding: 8px 20px 8px 20px;
+
+		border:#ff3366;
+
+		font-weight: 600;
+
+		font-size: 15px;
+
+		font-family: lato;
+
+	}
+
+	.media-heading{font-weight: 500;}
+
+	.text-muted{font-size: 15px;
+
+		color: #555;}
+
+		.teacher-nickname{color: #000;}
+
+		.col-custom{
+
+
+
+			height: 100%;
+
+			padding: 25px 40px;
+
+			margin: 20px auto 20px;
+
+			background-color: #fff;
+
+			font-family: lato;
+
+			/*border: 2px solid rgba(30,30,30,0.03);*/
+
+			box-shadow: rgba(62, 63, 65, 0.135) 0px 2px 6px;
+
+
+
+		}
+
+
+
+		.teachers_list{
+
+			margin: 10px; box-shadow: 8px 8px 10px 2px #888888; 
+
+		}
+
+
+
+		.teacher_box1{
+
+			border-bottom: 1px solid gainsboro; padding-bottom: 15px;
+
+		}
+
+
+
+
+
+		.teacher_img_col > img{
+
+			border-radius:70px; 
+
+		}
+
+
+
+		.pad17{
+
+
+
+			padding: 17px;
+
+		}
+
+
+
+		.pl20{
+
+			padding-left: 20px;
+
+		}
+
+		.pl5{
+
+			padding-left: 5px;
+
+		}
+
+
+
+		.pad10{
+
+			padding: 10px;
+
+		}
+
+
+
+		.h200{
+
+
+
+			height: 200px;
+
+		}
+
+		.h100p{
+
+			height: 100%;
+
+		}
+
+		.h25p{
+
+			height: 25%;
+
+		}
+
+
+
+		.h50p{
+
+			height: 50%;
+
+		}
+
+		.pad5{
+
+			padding: 5px;
+
+		}
+
+
+
+
+
+		#html5-watermark{
+
+			display: none !important;
+
+		}
+
+		.text-left{
+
+			text-align: left !important;
+
+		}
+
+		.control-label {
+
+			margin-top: 20px!important;
+
+		}
+
+		.html5-elem-box{background-color: transparent!important;
+
+			height: auto!important;}
+
+			.hdr1{
+
+				background: 0 0;
+
+				border: 0;
+
+				margin: 0;
+
+				padding: 0;
+
+				vertical-align: baseline;
+
+				outline: 0;
+
+			}
+
+			.bg-clr{
+
+				background-color: #75C7E4;
+
+			}
+
+			.fnt-white{
+
+				color: #fff;
+
+				font-size: 15px;
+
+				font-weight: 500;
+
+			}
+
+			.fav-box{
+
+				position:absolute; 
+
+				right:0px; 
+
+				font-size:20px; 
+
+				top:10px; 
+
+				color:#E74C3C;
+
+			}
+
+			.custom_image{
+
+
+
+				width: 100px;
+
+				height: 100px;
+
+				border: 2px solid rgba(30,30,30,0.03);}
+
+				.pl0{
+
+					padding-left: 0px!important;
+
+				}
+
+				.pr0{
+
+					padding-right: 0px!important;
+
+				}
+
+				.corner{
+
+					border-radius: 50%!important;
+
+				}
+
+				@media (min-width: 320px) and (max-width: 767px){
+
+					.sm-text{
+
+						font-size: 17px!important;
+
+					}
+
+					.sm-panel{
+
+						padding: 7px!important;
+
+					}
+
+					.btn-schedule{
+
+						margin: 0px 0px!important;
+
+						padding: 5px 5px 5px 5px;
+
+						font-size: 12px!important;
+
+					}
+
+					.custom_button{
+
+						margin: 0px 0px!important;
+
+						padding: 5px 5px 5px 5px;
+
+						font-size: 12px!important;
+
+
+
+					}
+
+					.pl5{
+
+						padding-left: 5px!important;
+
+					}
+
+
+
+
+
+				}
+
+				.mt_72{
+
+					margin-top: -72px!important;
+
+				}
+
+				@media (min-width: 768px) and (max-width: 2000px){
+
+					.pl150{
+
+						padding-left: 150px;
+
+
+
+					}
+
+				}
+
+				.navbar_custom, .nav > li > a:hover, .nav > li > a{font-size: 15px!important;font-family: lato!important;
+
+					font-weight: 600!important;}
+
+
+
+					.navbar_custom, .nav > li > a:hover, .nav > li > a:focus{color: #fafafa!important;
+
+						background-color: transparent!important;}
+
+					
+
+
+
+						/*Custom */
+
+						ul, ol {
+
+
+
+    margin-left: 0px !important;
+
+    margin-bottom: 0px !important;
+
+
+
+}
+
+						#menu-footer-new-menu li {
+
+
+
+    margin-right: 12px !important;
+
+
+
+}
+
+					/*footer{
+
+					bottom: 0;
+
+					position: fixed;
+
+								}*/
+
+				.menu a {
+
+					 font-size: 12px !important;
+
+   					}
+
+   					.modal-backdrop{
+
+   						display: none;
+
+   					}
+   					body.modal-open {
+    overflow: hidden;
+}
+.modal-open {
+    overflow: hidden;
+}
+.fc-center h2{
+	font-size: 22px!important;
+}

@@ -1,0 +1,76 @@
+span.font-11.custom_avatar_text {
+	font-size: 11px!important;
+}
+.position-fixed{
+	position: fixed!important;
+}
+.pt45{
+	padding-top: 45px!important;
+}
+.v-main.pt45{
+	padding: 43px 0px 0px!important;
+}
+/*! CSS Used from: https://demo.dashboardpack.com/architectui-html-pro/main.d810cf0ae7f39f28f336.css */
+
+
+.app-theme-white .app-page-title{background:rgba(255,255,255,0.45);}
+.app-page-title{padding:30px;margin:-30px -30px 30px;position:relative;}
+.app-page-title .page-title-wrapper{position:relative;display:flex;align-items:center;}
+.app-page-title .page-title-heading,.app-page-title .page-title-subheading{margin:0;padding:0;}
+.app-page-title .page-title-heading{font-size:1.25rem;font-weight:400;display:flex;align-content:center;align-items:center;}
+.app-page-title .page-title-subheading{padding:3px 0 0;font-size:.88rem;opacity:.6;}
+.app-page-title .page-title-actions{margin-left:auto;}
+.app-page-title .page-title-icon{font-size:2rem;display:flex;align-items:center;align-content:center;text-align:center;padding:.83333rem;margin:0 30px 0 0;background:#fff;box-shadow:0 0.46875rem 2.1875rem rgba(4,9,20,0.03),0 0.9375rem 1.40625rem rgba(4,9,20,0.03),0 0.25rem 0.53125rem rgba(4,9,20,0.05),0 0.125rem 0.1875rem rgba(4,9,20,0.03);border-radius:.25rem;width:60px;height:60px;}
+.app-page-title .page-title-icon i{margin:auto;}
+.opacity-7{opacity:.7!important;}
+.icon-gradient{-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;text-fill-color:transparent;}
+.bg-mean-fruit{background-image:linear-gradient(120deg, #fccb90 0%, #d57eeb 100%)!important;}
+.btn{font-size:0.8rem;font-weight:500;}
+.dropdown-toggle::after{position:relative;top:2px;opacity:.8;}
+.btn-info{color:#fff;background-color:#16aaff;border-color:#16aaff;}
+.btn-info:hover{color:#fff;background-color:#0098ef;border-color:#0090e2;}
+.btn-info:focus{box-shadow:0 0 0 0 rgba(57,183,255,0.5);}
+.btn-info:disabled{color:#fff;background-color:#16aaff;border-color:#16aaff;}
+.btn-info.btn-shadow{box-shadow:0 0.125rem 0.625rem rgba(22,170,255,0.4),0 0.0625rem 0.125rem rgba(22,170,255,0.5);}
+.btn-info.btn-shadow:hover{box-shadow:0 0.125rem 0.625rem rgba(22,170,255,0.5),0 0.0625rem 0.125rem rgba(22,170,255,0.6);}
+.btn-dark{color:#fff;background-color:#343a40;border-color:#343a40;}
+.btn-dark:hover{color:#fff;background-color:#23272b;border-color:#1d2124;}
+.btn-dark:focus{box-shadow:0 0 0 0 rgba(82,88,93,0.5);}
+.btn-dark:disabled{color:#fff;background-color:#343a40;border-color:#343a40;}
+.btn-dark.btn-shadow{box-shadow:0 0.125rem 0.625rem rgba(52,58,64,0.4),0 0.0625rem 0.125rem rgba(52,58,64,0.5);}
+.btn-dark.btn-shadow:hover{box-shadow:0 0.125rem 0.625rem rgba(52,58,64,0.5),0 0.0625rem 0.125rem rgba(52,58,64,0.6);}
+.btn{position:relative;transition:color 0.15s,background-color 0.15s,border-color 0.15s,box-shadow 0.15s;}
+@media screen and (prefers-reduced-motion: reduce){
+.btn{transition:none;}
+}
+.dropdown-menu{box-shadow:0 0.46875rem 2.1875rem rgba(4,9,20,0.03),0 0.9375rem 1.40625rem rgba(4,9,20,0.03),0 0.25rem 0.53125rem rgba(4,9,20,0.05),0 0.125rem 0.1875rem rgba(4,9,20,0.03);margin:.125rem;}
+.dropdown-menu.dropdown-menu-right{right:0!important;}
+.dropdown-toggle::after{position:relative;top:2px;opacity:.8;margin-left:5px;}
+.nav-item .nav-link{font-weight:normal;}
+.nav-link{display:flex;align-items:center;transition:background-color 0.3s ease, color 0.3s ease;cursor:pointer;}
+.nav-link .nav-link-icon{color:#3f6ad8;font-size:1rem;width:30px;text-align:center;opacity:.45;margin-left:-10px;}
+.nav-link:hover{color:#495057;}
+.nav-link:hover .nav-link-icon{opacity:.9;color:#3f6ad8;}
+.nav-link:disabled .nav-link-icon,.nav-link.disabled .nav-link-icon{opacity:.3;}
+.nav .badge{margin-left:8px;}
+.badge-secondary{color:#fff;background-color:#6c757d;}
+.badge-danger{color:#fff;background-color:#d92550;}
+.badge{font-weight:bold;text-transform:uppercase;padding:5px 10px;min-width:19px;}
+.nav-link{font-weight:bold;}
+.nav-link:hover{cursor:pointer;}
+.fa{font-family:'Font Awesome 5 Free';font-weight:900;}
+.fa{-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;display:inline-block;font-style:normal;font-variant:normal;text-rendering:auto;line-height:1;}
+.fa-business-time:before{content:"\f64a";}
+.fa-star:before{content:"\f005";}
+[class*=" lnr-"]{font-family:'Linearicons-Free';speak:none;font-style:normal;font-weight:normal;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;}
+.lnr-inbox:before{content:"\e81a";}
+.lnr-file-empty:before{content:"\e81d";}
+.lnr-picture:before{content:"\e827";}
+.lnr-book:before{content:"\e828";}
+[class^="pe-7s-"]{display:inline-block;font-family:'Pe-icon-7-stroke';speak:none;font-style:normal;font-weight:normal;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;}
+.pe-7s-car:before{content:"";}
+
+/*! CSS Used fontfaces */
+@font-face{font-family:'Font Awesome 5 Free';font-style:normal;font-weight:900;font-display:block;src:url(https://demo.dashboardpack.com/architectui-html-pro/assets/fonts/fa-solid-900.eot);src:url(https://demo.dashboardpack.com/architectui-html-pro/assets/fonts/fa-solid-900.eot#iefix) format("embedded-opentype"),url(https://demo.dashboardpack.com/architectui-html-pro/assets/fonts/fa-solid-900.woff2) format("woff2"),url(https://demo.dashboardpack.com/architectui-html-pro/assets/fonts/fa-solid-900.woff) format("woff"),url(https://demo.dashboardpack.com/architectui-html-pro/assets/fonts/fa-solid-900.ttf) format("truetype"),url(https://demo.dashboardpack.com/architectui-html-pro/assets/fonts/fa-solid-900.svg#fontawesome) format("svg");}
+@font-face{font-family:'Linearicons-Free';src:url(https://demo.dashboardpack.com/architectui-html-pro/assets/fonts/Linearicons-Free.eot);src:url(https://demo.dashboardpack.com/architectui-html-pro/assets/fonts/Linearicons-Free.eot#iefixw118d) format("embedded-opentype"),url(https://demo.dashboardpack.com/architectui-html-pro/assets/fonts/Linearicons-Free.woff2) format("woff2"),url(https://demo.dashboardpack.com/architectui-html-pro/assets/fonts/Linearicons-Free.woff) format("woff"),url(https://demo.dashboardpack.com/architectui-html-pro/assets/fonts/Linearicons-Free.ttf) format("truetype"),url(https://demo.dashboardpack.com/architectui-html-pro/assets/fonts/Linearicons-Free.svg#Linearicons-Free) format("svg");font-weight:normal;font-style:normal;}
+@font-face{font-family:'Pe-icon-7-stroke';src:url(https://demo.dashboardpack.com/architectui-html-pro/assets/fonts/Pe-icon-7-stroke.eot);src:url(https://demo.dashboardpack.com/architectui-html-pro/assets/fonts/Pe-icon-7-stroke.eot#iefixd7yf1v) format("embedded-opentype"),url(https://demo.dashboardpack.com/architectui-html-pro/assets/fonts/Pe-icon-7-stroke.woff) format("woff"),url(https://demo.dashboardpack.com/architectui-html-pro/assets/fonts/Pe-icon-7-stroke.ttf) format("truetype"),url(https://demo.dashboardpack.com/architectui-html-pro/assets/fonts/Pe-icon-7-stroke.svg#Pe-icon-7-stroke) format("svg");font-weight:normal;font-style:normal;}

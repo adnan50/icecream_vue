@@ -1,0 +1,41 @@
+---------------Website php script to do = in photo "home page" & "game page" will be a "number" 
+               and this number wil be here on list with explication what need to do for this job------------------
+"I WILL BUILD WEBSITE TEMPLATE AND ALL FEATURE IS WRITED HERE PLUS FROM PHOTO IS SAHRED HERE PLUS HELP YOU TO INTEGRATE ON YOUR WEBSITE"
+
+
+Number. ------what need to do example------------
+-----------------------home page photo----------------------------------
+1. is title example photo crazygames- this i need to have option on admin to add photo with my website and on click photo will be home page link - feature is already in my base website template
+2. is menu where is show all category - this need to be option in admin to add myself all category i wat plus also option to add an category in drop menu
+3. is search options - 
+4. is option to chage menu language
+5. is tags and will open like popup with resize window to enter any tag i add in admin
+6. is games  home page to add what game feature i want in order i want to promote what game i want firs or second and so on
+6. the home page will have exactly like in photo infinite scroll like in website crazygames.com + to show in photo games Name game,rating from 1% to 100% + number plays like in photo home page + when put mouse on game photo to start a video small  and this video need to add in page post to add in my admin
+-----------------------home page photo----------------------------------
+
+
+-----------------------game page photo----------------------------------
+1. is menu that need to be same like home page website
+2. is game where players will fun , this will have  fixed size of 831x600
+3. is widget adsense ads 300x600 size  and need to add in admin option to add this html code, i have already  place for ads in admin page 
+4. + 5 is widget 300 x600 and i ned to add in admin option to add code adsense + tags  there
+6. is name game that wil lshow automatic there at each post
+7. need title is games that players have played before and it save in  automatic , is like if play a game will add ther and play another will be up first , lower will be a button with text "SHOW MORE" and this button need to redirect player in a new page and show games like home page but only with games that player have click to play and also infinite scroll yes 
+8. is number of game player + 2 button like and dislike
+9.  "Maximize" button is when push game will go to full screen
+9. "Adjust Screen" button - when push this button will how up an Slider to resize screen of game and this setings need to save in web browser for next time when player will play the game- my website it have already this slider remember this 
+10. is googl ads 720x90  and need to be option on admin to add this code or not , 
+----remeber the feature number 2,6,8,9,11 is automatic resize, if there is not ads will be Height lower
+11. is button add to favorite and need to save on players that is not registered to website and will show from up  to bottom in number 14 from "game page"
+13 . is comments - no need t oauto resized , will be fixed size like it show - player need to login to post comment
+14 . title "Your Favorite Games" option in admin to change name - here wil lshow favorite games that player will push on button number 11, will be autoresize  to number 17 from photo - on bottom , lower this widget will show button "Show More" and if push button will go to new page and will show all favorite player with infinite scroll- only favorite player game remember
+15. related games is same tag or same category games random games, button Show more will go to new page with same category with infinite scroll
+16 . recomanded games it will show   popular games , button Show more - will open in new page and will show all popular games with infinite scroll
+17 . is menu bottom and need to have option to add from admin, add what button i want 
+18. this will go between number 12 and 13 from photo game page -  number 12= game description and number 12= comments - this witget will be autoresize up and down and need to have option in admin page to add like a post there with text and photo and have posibility to move all and put in place i want
+-----------remember: vote, plays, favorite = player not need to register to have this feature-----
+                     - for comment need to be registered ---------
+
+
+

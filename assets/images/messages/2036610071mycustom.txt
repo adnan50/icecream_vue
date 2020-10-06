@@ -1,0 +1,6 @@
+Q1: Deliveroo link will be before placing the order or after creating the order?
+
+Q2: Which payment gateway do you want to add?
+Q3: Is there anything else other than Salads, drinks, and warm bowls?
+Q4: For warm bowls, flow will be same like salads?
+Q5: Can you send me logo?
